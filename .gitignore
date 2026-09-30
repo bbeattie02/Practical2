@@ -1,0 +1,7 @@
+main
+public_tests
+*.exe
+*.o
+.DS_Store
+.vscode/
+bin/
